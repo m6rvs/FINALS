@@ -1,0 +1,3 @@
+{'username': 'jema', 'points': 1}
+{'username': 'jema', 'points': 3}
+{'username': 'jema', 'points': 6}
